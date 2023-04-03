@@ -1,0 +1,15 @@
+D:\c sharp code\assignment6\OrderApp\bin\Debug\net6.0\OrderApp.exe
+D:\c sharp code\assignment6\OrderApp\bin\Debug\net6.0\OrderApp.deps.json
+D:\c sharp code\assignment6\OrderApp\bin\Debug\net6.0\OrderApp.runtimeconfig.json
+D:\c sharp code\assignment6\OrderApp\bin\Debug\net6.0\OrderApp.dll
+D:\c sharp code\assignment6\OrderApp\bin\Debug\net6.0\OrderApp.pdb
+D:\c sharp code\assignment6\OrderApp\obj\Debug\net6.0\OrderApp.csproj.AssemblyReference.cache
+D:\c sharp code\assignment6\OrderApp\obj\Debug\net6.0\OrderApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp code\assignment6\OrderApp\obj\Debug\net6.0\OrderApp.AssemblyInfoInputs.cache
+D:\c sharp code\assignment6\OrderApp\obj\Debug\net6.0\OrderApp.AssemblyInfo.cs
+D:\c sharp code\assignment6\OrderApp\obj\Debug\net6.0\OrderApp.csproj.CoreCompileInputs.cache
+D:\c sharp code\assignment6\OrderApp\obj\Debug\net6.0\OrderApp.dll
+D:\c sharp code\assignment6\OrderApp\obj\Debug\net6.0\refint\OrderApp.dll
+D:\c sharp code\assignment6\OrderApp\obj\Debug\net6.0\OrderApp.pdb
+D:\c sharp code\assignment6\OrderApp\obj\Debug\net6.0\OrderApp.genruntimeconfig.cache
+D:\c sharp code\assignment6\OrderApp\obj\Debug\net6.0\ref\OrderApp.dll
